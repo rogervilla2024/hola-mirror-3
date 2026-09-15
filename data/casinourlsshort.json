@@ -4,14 +4,14 @@
     "url": "https://urlsshort.link/g9u7j2m",
     "title": "Discount Casino",
     "bonus": { "percent": "%100", "amount": "5.000 TL", "note": "Nakit" },
-    "rating": 4.8
+    "rating": 4.9
   },
   {
     "image": "../logos/jetbahis.jpg",
     "url": "https://urlsshort.link/j8s8o9a",
     "title": "Jetbahis",
     "bonus": { "percent": "%125", "amount": "20.000 TL" },
-    "rating": 4.9
+    "rating": 4.8
   },
   {
     "image": "../logos/hovarda.jpeg",
@@ -25,13 +25,13 @@
     "url": "https://urlsshort.link/m8u5t8i",
     "title": "Mobilbahis",
     "bonus": { "percent": "%125", "amount": "20.000 TL" },
-    "rating": 4.4
+    "rating": 4.6
   },
   {
     "image": "../logos/trbet.jpg",
     "url": "https://urlsshort.link/t7a25lc/",
     "title": "Trbet",
     "bonus": { "percent": "%100", "amount": "35.000 TL" },
-    "rating": 4.3
+    "rating": 4.5
   }
 ]
